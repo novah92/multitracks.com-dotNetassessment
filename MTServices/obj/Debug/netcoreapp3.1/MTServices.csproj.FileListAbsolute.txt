@@ -1,0 +1,12 @@
+C:\Users\nosin\Dropbox\My Documents\Employment\Software\MultiTracks\net-main\.net-main\MTServices\bin\Debug\netcoreapp3.1\MTServices.deps.json
+C:\Users\nosin\Dropbox\My Documents\Employment\Software\MultiTracks\net-main\.net-main\MTServices\bin\Debug\netcoreapp3.1\MTServices.dll
+C:\Users\nosin\Dropbox\My Documents\Employment\Software\MultiTracks\net-main\.net-main\MTServices\bin\Debug\netcoreapp3.1\MTServices.pdb
+C:\Users\nosin\Dropbox\My Documents\Employment\Software\MultiTracks\net-main\.net-main\MTServices\bin\Debug\netcoreapp3.1\MTDataAccess.dll
+C:\Users\nosin\Dropbox\My Documents\Employment\Software\MultiTracks\net-main\.net-main\MTServices\bin\Debug\netcoreapp3.1\MTDataAccess.pdb
+C:\Users\nosin\Dropbox\My Documents\Employment\Software\MultiTracks\net-main\.net-main\MTServices\obj\Debug\netcoreapp3.1\MTServices.csproj.AssemblyReference.cache
+C:\Users\nosin\Dropbox\My Documents\Employment\Software\MultiTracks\net-main\.net-main\MTServices\obj\Debug\netcoreapp3.1\MTServices.AssemblyInfoInputs.cache
+C:\Users\nosin\Dropbox\My Documents\Employment\Software\MultiTracks\net-main\.net-main\MTServices\obj\Debug\netcoreapp3.1\MTServices.AssemblyInfo.cs
+C:\Users\nosin\Dropbox\My Documents\Employment\Software\MultiTracks\net-main\.net-main\MTServices\obj\Debug\netcoreapp3.1\MTServices.csproj.CoreCompileInputs.cache
+C:\Users\nosin\Dropbox\My Documents\Employment\Software\MultiTracks\net-main\.net-main\MTServices\obj\Debug\netcoreapp3.1\MTServices.csproj.CopyComplete
+C:\Users\nosin\Dropbox\My Documents\Employment\Software\MultiTracks\net-main\.net-main\MTServices\obj\Debug\netcoreapp3.1\MTServices.dll
+C:\Users\nosin\Dropbox\My Documents\Employment\Software\MultiTracks\net-main\.net-main\MTServices\obj\Debug\netcoreapp3.1\MTServices.pdb

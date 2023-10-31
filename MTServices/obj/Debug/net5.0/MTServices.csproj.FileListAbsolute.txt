@@ -1,0 +1,63 @@
+C:\Users\nosin\Dropbox\My Documents\Employment\Software\MultiTracks\net-main\.net-main\MTServices\bin\Debug\net5.0\MTServices.deps.json
+C:\Users\nosin\Dropbox\My Documents\Employment\Software\MultiTracks\net-main\.net-main\MTServices\bin\Debug\net5.0\MTServices.dll
+C:\Users\nosin\Dropbox\My Documents\Employment\Software\MultiTracks\net-main\.net-main\MTServices\bin\Debug\net5.0\ref\MTServices.dll
+C:\Users\nosin\Dropbox\My Documents\Employment\Software\MultiTracks\net-main\.net-main\MTServices\bin\Debug\net5.0\MTServices.pdb
+C:\Users\nosin\Dropbox\My Documents\Employment\Software\MultiTracks\net-main\.net-main\MTServices\bin\Debug\net5.0\MTDataAccess.dll
+C:\Users\nosin\Dropbox\My Documents\Employment\Software\MultiTracks\net-main\.net-main\MTServices\bin\Debug\net5.0\MTDataAccess.pdb
+C:\Users\nosin\Dropbox\My Documents\Employment\Software\MultiTracks\net-main\.net-main\MTServices\obj\Debug\net5.0\MTServices.csproj.AssemblyReference.cache
+C:\Users\nosin\Dropbox\My Documents\Employment\Software\MultiTracks\net-main\.net-main\MTServices\obj\Debug\net5.0\MTServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nosin\Dropbox\My Documents\Employment\Software\MultiTracks\net-main\.net-main\MTServices\obj\Debug\net5.0\MTServices.AssemblyInfoInputs.cache
+C:\Users\nosin\Dropbox\My Documents\Employment\Software\MultiTracks\net-main\.net-main\MTServices\obj\Debug\net5.0\MTServices.AssemblyInfo.cs
+C:\Users\nosin\Dropbox\My Documents\Employment\Software\MultiTracks\net-main\.net-main\MTServices\obj\Debug\net5.0\MTServices.csproj.CoreCompileInputs.cache
+C:\Users\nosin\Dropbox\My Documents\Employment\Software\MultiTracks\net-main\.net-main\MTServices\obj\Debug\net5.0\MTServices.csproj.CopyComplete
+C:\Users\nosin\Dropbox\My Documents\Employment\Software\MultiTracks\net-main\.net-main\MTServices\obj\Debug\net5.0\MTServices.dll
+C:\Users\nosin\Dropbox\My Documents\Employment\Software\MultiTracks\net-main\.net-main\MTServices\obj\Debug\net5.0\ref\MTServices.dll
+C:\Users\nosin\Dropbox\My Documents\Employment\Software\MultiTracks\net-main\.net-main\MTServices\obj\Debug\net5.0\MTServices.pdb
+C:\Users\nosin\Dropbox\My Documents\Employment\Software\MultiTracks\net-main\.net-main\MTServices\bin\Debug\net5.0\MTDataAccess.dll.config
+C:\Source\Repos\MultiTracks\MTServices\bin\Debug\net5.0\MTServices.deps.json
+C:\Source\Repos\MultiTracks\MTServices\bin\Debug\net5.0\MTServices.dll
+C:\Source\Repos\MultiTracks\MTServices\bin\Debug\net5.0\ref\MTServices.dll
+C:\Source\Repos\MultiTracks\MTServices\bin\Debug\net5.0\MTServices.pdb
+C:\Source\Repos\MultiTracks\MTServices\bin\Debug\net5.0\MTDataAccess.dll
+C:\Source\Repos\MultiTracks\MTServices\bin\Debug\net5.0\MTDataAccess.pdb
+C:\Source\Repos\MultiTracks\MTServices\bin\Debug\net5.0\MTDataAccess.dll.config
+C:\Source\Repos\MultiTracks\MTServices\obj\Debug\net5.0\MTServices.csproj.AssemblyReference.cache
+C:\Source\Repos\MultiTracks\MTServices\obj\Debug\net5.0\MTServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\Repos\MultiTracks\MTServices\obj\Debug\net5.0\MTServices.AssemblyInfoInputs.cache
+C:\Source\Repos\MultiTracks\MTServices\obj\Debug\net5.0\MTServices.AssemblyInfo.cs
+C:\Source\Repos\MultiTracks\MTServices\obj\Debug\net5.0\MTServices.csproj.CoreCompileInputs.cache
+C:\Source\Repos\MultiTracks\MTServices\obj\Debug\net5.0\MTServices.csproj.CopyComplete
+C:\Source\Repos\MultiTracks\MTServices\obj\Debug\net5.0\MTServices.dll
+C:\Source\Repos\MultiTracks\MTServices\obj\Debug\net5.0\ref\MTServices.dll
+C:\Source\Repos\MultiTracks\MTServices\obj\Debug\net5.0\MTServices.pdb
+N:\solution for MT\robin\.net-main\MTServices\bin\Debug\net5.0\MTServices.deps.json
+N:\solution for MT\robin\.net-main\MTServices\bin\Debug\net5.0\MTServices.dll
+N:\solution for MT\robin\.net-main\MTServices\bin\Debug\net5.0\MTServices.pdb
+N:\solution for MT\robin\.net-main\MTServices\bin\Debug\net5.0\MTDataAccess.dll
+N:\solution for MT\robin\.net-main\MTServices\bin\Debug\net5.0\MTDataAccess.pdb
+N:\solution for MT\robin\.net-main\MTServices\bin\Debug\net5.0\MTDataAccess.dll.config
+N:\solution for MT\robin\.net-main\MTServices\obj\Debug\net5.0\MTServices.csproj.AssemblyReference.cache
+N:\solution for MT\robin\.net-main\MTServices\obj\Debug\net5.0\MTServices.GeneratedMSBuildEditorConfig.editorconfig
+N:\solution for MT\robin\.net-main\MTServices\obj\Debug\net5.0\MTServices.AssemblyInfoInputs.cache
+N:\solution for MT\robin\.net-main\MTServices\obj\Debug\net5.0\MTServices.AssemblyInfo.cs
+N:\solution for MT\robin\.net-main\MTServices\obj\Debug\net5.0\MTServices.csproj.CoreCompileInputs.cache
+N:\solution for MT\robin\.net-main\MTServices\obj\Debug\net5.0\MTServices.csproj.CopyComplete
+N:\solution for MT\robin\.net-main\MTServices\obj\Debug\net5.0\MTServices.dll
+N:\solution for MT\robin\.net-main\MTServices\obj\Debug\net5.0\refint\MTServices.dll
+N:\solution for MT\robin\.net-main\MTServices\obj\Debug\net5.0\MTServices.pdb
+N:\solution for MT\robin\.net-main\MTServices\obj\Debug\net5.0\ref\MTServices.dll
+N:\MT\.net-main\MTServices\bin\Debug\net5.0\MTServices.deps.json
+N:\MT\.net-main\MTServices\bin\Debug\net5.0\MTServices.dll
+N:\MT\.net-main\MTServices\bin\Debug\net5.0\MTServices.pdb
+N:\MT\.net-main\MTServices\bin\Debug\net5.0\MTDataAccess.dll
+N:\MT\.net-main\MTServices\bin\Debug\net5.0\MTDataAccess.pdb
+N:\MT\.net-main\MTServices\obj\Debug\net5.0\MTServices.csproj.AssemblyReference.cache
+N:\MT\.net-main\MTServices\obj\Debug\net5.0\MTServices.GeneratedMSBuildEditorConfig.editorconfig
+N:\MT\.net-main\MTServices\obj\Debug\net5.0\MTServices.AssemblyInfoInputs.cache
+N:\MT\.net-main\MTServices\obj\Debug\net5.0\MTServices.AssemblyInfo.cs
+N:\MT\.net-main\MTServices\obj\Debug\net5.0\MTServices.csproj.CoreCompileInputs.cache
+N:\MT\.net-main\MTServices\obj\Debug\net5.0\MTServices.csproj.CopyComplete
+N:\MT\.net-main\MTServices\obj\Debug\net5.0\MTServices.dll
+N:\MT\.net-main\MTServices\obj\Debug\net5.0\refint\MTServices.dll
+N:\MT\.net-main\MTServices\obj\Debug\net5.0\MTServices.pdb
+N:\MT\.net-main\MTServices\obj\Debug\net5.0\ref\MTServices.dll

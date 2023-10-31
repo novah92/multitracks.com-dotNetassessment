@@ -1,0 +1,182 @@
+{
+  "format": 1,
+  "restore": {
+    "N:\\MT\\.net-main\\MultiTracks.API\\MultiTracks.API.csproj": {}
+  },
+  "projects": {
+    "N:\\MT\\.net-main\\Core\\MTDataAccess\\MTDataAccess.csproj": {
+      "restore": {
+        "projectUniqueName": "N:\\MT\\.net-main\\Core\\MTDataAccess\\MTDataAccess.csproj",
+        "projectName": "MTDataAccess",
+        "projectPath": "N:\\MT\\.net-main\\Core\\MTDataAccess\\MTDataAccess.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "N:\\MT\\.net-main\\MTServices\\MTServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "N:\\MT\\.net-main\\MTServices\\MTServices.csproj",
+        "projectName": "MTServices",
+        "projectPath": "N:\\MT\\.net-main\\MTServices\\MTServices.csproj",
+        "packagesPath": "C:\\Users\\Novah\\.nuget\\packages\\",
+        "outputPath": "N:\\MT\\.net-main\\MTServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Novah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "N:\\MT\\.net-main\\Core\\MTDataAccess\\MTDataAccess.csproj": {
+                "projectPath": "N:\\MT\\.net-main\\Core\\MTDataAccess\\MTDataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "N:\\MT\\.net-main\\MultiTracks.API\\MultiTracks.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "N:\\MT\\.net-main\\MultiTracks.API\\MultiTracks.API.csproj",
+        "projectName": "MultiTracks.API",
+        "projectPath": "N:\\MT\\.net-main\\MultiTracks.API\\MultiTracks.API.csproj",
+        "packagesPath": "C:\\Users\\Novah\\.nuget\\packages\\",
+        "outputPath": "N:\\MT\\.net-main\\MultiTracks.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Novah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "N:\\MT\\.net-main\\Core\\MTDataAccess\\MTDataAccess.csproj": {
+                "projectPath": "N:\\MT\\.net-main\\Core\\MTDataAccess\\MTDataAccess.csproj"
+              },
+              "N:\\MT\\.net-main\\MTServices\\MTServices.csproj": {
+                "projectPath": "N:\\MT\\.net-main\\MTServices\\MTServices.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
